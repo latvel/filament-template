@@ -1,0 +1,15 @@
+<?php
+
+namespace {{ namespace }};
+
+use Latvel\FilamentTemplate\BaseTemplate;
+
+class {{ class }} extends BaseTemplate
+{
+    public function schema(): array
+    {
+        return [
+            //
+        ];
+    }
+}
